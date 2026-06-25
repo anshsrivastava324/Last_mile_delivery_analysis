@@ -1,21 +1,3 @@
-"""
-Last-Mile Delivery Analysis — India (2080 orders, 10 cities)
-============================================================
-Q1  After Cleaning  — Peak-hour delay pattern
-Q2  EDA             — Weather vs delay correlation
-Q3  Statistics      — Rider experience effect (t-test + Cohen's d)
-Q4  Dashboard       — City-level 3-panel performance board
-
-Usage:
-    pip install pandas numpy scipy matplotlib seaborn
-    python last_mile_delivery_analysis.py
-    
-Output:
-    q1_peak_hour_delay.png
-    q2_weather_delay.png
-    q3_rider_experience.png
-    q4_city_dashboard.png
-"""
 
 import pandas as pd
 import numpy as np
